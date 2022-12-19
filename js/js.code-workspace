@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../images"
+		},
+		{
+			"path": "../fonts"
+		},
+		{
+			"path": "../css"
+		},
+		{
+			"path": "../videos"
+		}
+	]
+}
